@@ -1,6 +1,5 @@
 matplotlib
 numpy
 scipy
-PIL
 ipywidgets
 jupyter_contrib_nbextensions
